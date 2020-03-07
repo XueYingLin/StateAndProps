@@ -1,2 +1,0 @@
-# StateAndProps
-Created with CodeSandbox
